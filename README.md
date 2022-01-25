@@ -9,8 +9,7 @@
          
                 
                
-                </div>
-            </div>
+             
             <article>
                 <div id="markdownBody">
                     <div id="abstract">
@@ -31,11 +30,7 @@
                             <li>
                                 <p>
                                     <strong> Harry Murphy, 1/24/22, 9:01-10:20pm. 
-                                </p>
-                            </li>
-                        </ul>
-                    
-                    </a>
+                              
                 <ul>
              <li>
           <p> Decent session, getting out the mud. </p>
